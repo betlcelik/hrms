@@ -1,3 +1,3 @@
 # hrms
  
-KodlamaIo java Projesi Human Resources Management System
+KodlamaIo Java Projesi Human Resources Management System
